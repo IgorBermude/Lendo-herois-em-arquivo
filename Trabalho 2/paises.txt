@@ -1,0 +1,6 @@
+Japao	herois_japao.txt	viloes_japao.txt
+Brasil	herois_brasil.txt	viloes_brasil.txt
+EstadosUnidos	herois_estadosunidos.txt	viloes_estadosunidos.txt
+Alemanha	herois_alemanha.txt	viloes_alemanha.txt
+Argentina	herois_argentina.txt	viloes_argentina.txt
+China	herois_china.txt	viloes_china.txt

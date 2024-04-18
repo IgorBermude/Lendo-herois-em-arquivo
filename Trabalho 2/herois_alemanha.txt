@@ -1,0 +1,6 @@
+Gotze	Ball	67	1,71	4103
+Ozama	Bomb	90	1,63	55
+Mario	Jump	56	1,30	25
+Bob	sponge	40	1,10	5245
+Minoru_Mineta	Pop_Off	54	1,30	7654
+Toru_Hagakure	Invisibility	68	1,65	5498

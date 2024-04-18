@@ -1,0 +1,5 @@
+Ze_Gotinha	vacinacao	60	1,70	1
+Boto_cor_de_Rosa	Comer	90	1,90	6970
+Manuel_Gomes	Caneta_Azul	59	1,67	100
+Saci	Pe_Voador	40	1,20	10
+BoiTata	AmplificacaoChifre	200	2,00	3

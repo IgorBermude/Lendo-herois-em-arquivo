@@ -1,0 +1,6 @@
+Shi_Yu	Telekinesis	65	1,80	7
+Hiryu_Rin	Scales	64	1,70	9321
+Zoro	Sword	70	1,65	231
+Kitsu	Kung_Fu	85	1,82	14
+Jackie_chan	Martial_Arts	65	1,70	1
+Rikido_Sato	Sugar_Rush	93	1,89	1567

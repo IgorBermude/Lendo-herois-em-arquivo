@@ -1,0 +1,7 @@
+Messi	Object_Control	72	1,69	1
+Maradona	Wind	80	1,80	453
+Sonic	Speed	95	1,45	3583
+Master_Chief	Resistence	150	2,10	171
+Paola	tasting	60	1,72	567
+Mashirao_Ojiro	Tail	77	1,89	8493
+Yuga_Aoyama	Naval_Laser	60	1,73	9653

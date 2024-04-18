@@ -1,0 +1,5 @@
+Captain_Captalist	Creat_Money	53	1,68	4
+Kin_Shong	Jiu-Jitsu	90	1,89	3
+Katsuki	Ilusion	76	1,75	4
+Kakashi	Kunai	68	1,65	5
+Tsuyu_Asui	Frog	55	1,59	2

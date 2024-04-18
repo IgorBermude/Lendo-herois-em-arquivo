@@ -1,0 +1,6 @@
+Lautaru	Blind	79	1,75	2
+Taiz	Peso	280	1,89	4
+Mawk	Air_Walk	65	1,72	1
+Koji	Anivoice	80	1,90	2
+Skeptic	Anthropomorph	93	1,85	2
+Hekiji	Barrier	103	1,96	4

@@ -1,0 +1,9 @@
+All_Might	One_For_All	255	2,20	1
+Endevor	Hell_Flames	118	1,95	2
+Hawks	Wings	80	1,72	3
+Deku	One_For_All	56	1,66	99
+Bakugou	Explosion	60	1,72	100
+Todoroki	Half_hot_half_cold	60	1,76	105
+Saitama	One_Punch	70	1,75	9999
+Mirio_Togata	permeation	85	1,81	54
+Shota_Aizawa	Erasure	70	1,83	23

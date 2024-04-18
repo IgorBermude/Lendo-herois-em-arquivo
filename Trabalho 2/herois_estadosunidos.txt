@@ -1,0 +1,7 @@
+Star_And_Stripe	New_Order	200	1,75	1
+Super_Man	Kriptonian	110	1,91	10
+Batman	Quirkless	95	1,88	5
+Iron_Man	Iron	195	2,00	45
+Hulk	Force	98	1,70	276
+Flash	Speed	78	1,75	56
+Denki_Kamirari	Electrification	63	1,68	820
